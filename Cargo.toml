@@ -17,3 +17,5 @@ hyper = { version="0.14.16", features = ["full"]}
 mime = "0.3.16"
 anyhow = "1.0.56"
 thiserror = "1.0.30"
+http-body = "0.4.5"
+validator = { version="0.16.0", features = ["derive"] }
